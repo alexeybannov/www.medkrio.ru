@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Care WordPress Theme\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/twentyeleven\n"
+"POT-Creation-Date: 2011-11-16 14:07+00:00\n"
+"PO-Revision-Date: 2011-11-16 14:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: loop-single.php:40
+#: loop.php:55
+msgid " Edit"
+msgstr ""
+
+#: loop-archive.php:15
+msgid "% Comments"
+msgstr ""
+
+#: loop-single.php:19
+#: loop.php:59
+msgid "% Comments "
+msgstr ""
+
+#: functions/content_elements.php:95
+msgid "%1$s"
+msgstr ""
+
+#: loop-single.php:11
+#: loop.php:26
+msgid "%2$s"
+msgstr ""
+
+#: functions/content_elements.php:97
+#: functions/content_elements.php:126
+msgid "(Edit)"
+msgstr ""
+
+#: loop-archive.php:15
+msgid "1 Comment"
+msgstr ""
+
+#: loop-single.php:19
+#: loop.php:59
+msgid "1 Comment "
+msgstr ""
+
+#: comments.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: functions/shortcodes-ultimate/lib/admin.php:34
+msgid "About"
+msgstr ""
+
+#: comments.php:71
+msgid "Add a Comment"
+msgstr ""
+
+#: comments.php:107
+msgid "Add comment"
+msgstr ""
+
+#: loop.php:7
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: loop-archive.php:4
+msgid "Apologies, but no results were found for your request. Perhaps searching will help find a related post."
+msgstr ""
+
+#: header.php:72
+msgid "Archives"
+msgstr ""
+
+#: single-portfolio.php:33
+msgid "Back"
+msgstr ""
+
+#: header.php:66
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: loop-page.php:8
+msgid "Edit"
+msgstr ""
+
+#: comments.php:99
+msgid "Email"
+msgstr ""
+
+#: functions/widgets/social-widget/social-widget.php:567
+msgid "Follow Us on"
+msgstr ""
+
+#: loop-single.php:19
+#: loop.php:59
+msgid "Leave a comment "
+msgstr ""
+
+#: comments.php:94
+msgid "Log out"
+msgstr ""
+
+#: comments.php:94
+msgid "Logged in as "
+msgstr ""
+
+#: functions/widgets/sidebar-login/sidebar-login.php:72
+msgid "Logout"
+msgstr ""
+
+#: header.php:68
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: comments.php:96
+msgid "Name"
+msgstr ""
+
+#: comments.php:60
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: loop-archive.php:15
+msgid "No Comments"
+msgstr ""
+
+#: loop.php:5
+msgid "Not Found"
+msgstr ""
+
+#: header.php:56
+msgid "Page Not Found"
+msgstr ""
+
+#: loop-single.php:46
+#: loop-page.php:7
+#: loop.php:64
+msgid "Pages:"
+msgstr ""
+
+#: functions/widgets/sidebar-login/sidebar-login.php:82
+msgid "Password"
+msgstr ""
+
+#: loop.php:17
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions/content_elements.php:126
+msgid "Pingback:"
+msgstr ""
+
+#: loop.php:59
+#: functions/shortcodes-ultimate/lib/shortcodes.php:974
+msgid "Read more"
+msgstr ""
+
+#: functions/widgets/sidebar-login/sidebar-login.php:96
+msgid "Recover password"
+msgstr ""
+
+#: functions/widgets/sidebar-login/sidebar-login.php:94
+msgid "Register"
+msgstr ""
+
+#: functions/widgets/sidebar-login/sidebar-login.php:87
+msgid "Remember me"
+msgstr ""
+
+#: comments.php:71
+msgid "Reply to %s"
+msgstr ""
+
+#: sidebar.php:6
+#: searchform.php:9
+msgid "Search"
+msgstr ""
+
+#: header.php:50
+msgid "Search Results for: %s"
+msgstr ""
+
+#: 404.php:8
+msgid "The page you were looking for doesn\\'t exist."
+msgstr ""
+
+#: functions/shortcodes-ultimate/lib/shortcodes.php:704
+msgid "This content is for members only."
+msgstr ""
+
+#: functions/shortcodes-ultimate/lib/shortcodes.php:704
+msgid "Please login"
+msgstr ""
+
+#: functions/content_elements.php:45
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions/content_elements.php:47
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions/content_elements.php:49
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: comments.php:14
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: functions/widgets/sidebar-login/sidebar-login.php:79
+msgid "User"
+msgstr ""
+
+#: functions/content_elements.php:27
+msgid "View all posts by %s"
+msgstr ""
+
+#: comments.php:102
+msgid "Website"
+msgstr ""
+
+#: header.php:70
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: comments.php:87
+msgid "You must be logged in to post a comment."
+msgstr ""
+
+#: comments.php:106
+msgid "Your Comments"
+msgstr ""
+
+#: functions/content_elements.php:107
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/breadcrumb-trail.php:51
+msgid "You are here: "
+msgstr ""
+
+#: functions/breadcrumb-trail.php:52
+msgid "Home"
+msgstr ""

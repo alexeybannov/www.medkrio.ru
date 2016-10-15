@@ -1,0 +1,10 @@
+.textwidget input[type='text'], .textwidget textarea { width:94% !important;}
+.contact-form .clear-form { clear: both; }
+.contact-form input[type='text'] {margin-bottom: 13px; }
+.contact-form select { margin-bottom: 13px; color: #666; font-size: 13px; border:1px solid #ccc; background:#F8F8F8; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding:5px 10px; min-width:50px;}
+.contact-form textarea {height: 180px;  float: none; margin-bottom: 13px; min-width:75%;overflow :hidden}
+.contact-form input[type='radio'], .contact-form input[type='checkbox'] { float: none; margin-right:5px;margin-bottom: 2px; width:15px; height:15px; background:none; border:none;vertical-align:middle;}
+.contact-form label {font-size:12px; font-weight:bold; margin-bottom: 4px; float: none; display: block; }
+.contact-form label.checkbox, .contact-form label.radio {font-size:12px; margin-bottom: 3px; float: none; font-weight: normal; display: inline-block; }
+.contact-form label span {font-size:10px; color: #888; margin-left: 4px; font-weight: normal; }
+.contact-submit{margin-top:20px;}

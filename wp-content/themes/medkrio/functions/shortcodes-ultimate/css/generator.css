@@ -1,0 +1,93 @@
+#su-generator-wrap {
+	display: none;
+}
+
+#su-generator {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	overflow: auto;
+}
+#su-generator-shell {
+	padding: 20px 00px;
+}
+
+#su-generator-settings {
+	padding: 0px;
+}
+#su-generator-settings p{
+	padding: 2px 0px!important;
+}
+
+#su-generator-header {
+	height: 30px;
+	margin-bottom: 20px;
+}
+
+#su-generator-select {
+padding:0 0 0 10px;
+height:34px;
+width:560px;
+}
+
+#su-generator-tools {
+	display:none;
+	float: right;
+	padding-top: 5px;
+}
+#su-generator-tools a {
+	margin-left: 10px;
+}
+
+#su-generator-settings label {
+	font-weight:bold;
+	float: left;
+	display: block;
+	width: 250px;
+	padding: 5px;
+	color:#707070;
+	font-size:10px;
+	text-transform:uppercase;
+	border-bottom: 1px dashed #E2E2E2;
+}
+
+#su-generator-settings input[type="text"] {
+	width: 300px;
+	padding: 5px 8px;
+}
+#su-generator-settings select {
+	width: 300px;
+
+}
+
+.su-loading-animation {
+	min-height: 100px;
+	background: 50% 50% url(../images/admin/loading.gif) no-repeat;
+}
+.su-loading-animation * {
+	display: none;
+}
+
+#su-generator-insert {
+	color: #fff !important;
+	font-weight: bold;
+}
+
+
+/* Color picker */
+.su-generator-select-color {
+	position: relative;
+}
+.su-generator-select-color-wheel {
+	position: absolute;
+	left: 0;
+	top: 23px;
+	display: none;
+	background: #fff;
+	border: 1px solid #aaa;
+	z-index: 9999;
+	box-shadow: 0 2px 5px #ccc;
+	-moz-box-shadow: 0 2px 5px #ccc;
+	-webkit-box-shadow: 0 2px 5px #ccc;
+}
